@@ -5,6 +5,7 @@ description:         'A reserved <a href="https://jekyllrb.com" target="_blank">
 url:                 http://lanyon.getpoole.com
 baseurl:             '/lanyon/'
 paginate:            5
+permalink:           pretty
 
 # About/contact
 author:
